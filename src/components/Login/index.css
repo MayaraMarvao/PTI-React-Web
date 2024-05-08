@@ -1,0 +1,28 @@
+.component-login{
+    margin: 4rem 8rem;
+    
+    background-color: rgb(225, 255, 191);
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 40%;
+    padding: 2em 2em;
+
+    
+}
+
+input{
+    margin: 0.5em;
+}
+
+.label{
+    margin-top: 3px;
+    color: rgb(77, 255, 7);
+}
+
+.botao{
+    border-radius: 7px;
+    color: rgb(152, 236, 119);
+    background-color: rgb(2, 70, 53);
+}

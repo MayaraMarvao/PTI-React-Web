@@ -1,0 +1,29 @@
+.sobremim{
+
+    h1{
+        width: 100%;
+        padding: 1em 0 1em 2em;
+    }
+
+    .foto{
+        margin: 1em 0;
+        border-radius: 5px;
+        min-width: 25%;
+        max-width: 25%;
+    }
+
+    
+    .sobre{
+        display: flex;
+        justify-content: space-around;
+    }
+    
+
+    .paragrafos{
+        width: 60%;
+    }
+
+
+
+}
+

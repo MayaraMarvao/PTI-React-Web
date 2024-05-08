@@ -1,0 +1,20 @@
+.propaganda{
+    margin: 2rem 5rem;
+    
+    background-color: rgb(225, 255, 191);
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 40%;
+    max-height: 30%;
+    padding: 1.5em 0 0 0;
+
+    
+    .senac{
+    border-radius: 10px;
+    max-width: 15em;
+    margin-bottom: 1em;
+}
+}

@@ -1,0 +1,18 @@
+.footer-container{
+    
+    background-color: rgb(225, 255, 191);
+    display: flex;
+    list-style-type: none;
+    font-size:large;
+    gap: 8em;
+    padding: 2em;
+
+    justify-content: center;
+
+
+    li{
+        margin: 1em;
+        font-size: small;
+    }
+}
+
